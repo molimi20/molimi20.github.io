@@ -15,7 +15,7 @@
 baseURL: /
 # 站点标题
 # Website title
-title: 盧瞳小站
+title: 红雨随心小站
 # 主题名称
 # Theme name
 theme: hugo-theme-next
@@ -175,10 +175,10 @@ params:
 
   # 站点基本信息
   # Site Information Settings
-  author: 盧瞳
-  subtitle: 先思考后编程
-  description: LuTong's 小站
-  keywords: Hugo,NexT,盧瞳,LuTong
+  author: 红雨随心
+  subtitle: 红雨随心翻作浪，青山着意化为桥。
+  description: HongYu's 小站
+  keywords: Hugo,NexT,红雨随心,HongYu
 
   # 不同尺寸站点图标
   # Different size of favicon
@@ -281,7 +281,7 @@ params:
   avatar:
     # 设置显示头像的相对路径
     # Replace the default image and set the url here.
-    url: /imgs/avatar.jpg
+    url: /Desktop/CuoTou.jpg
     # 开启头像的圆形显示效果
     # If true, the avatar will be displayed in circle.
     rounded: true
