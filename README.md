@@ -5,19 +5,19 @@ title = '第一篇Hugo文章'
 +++
 
 
-## 个人博客《盧瞳小站》的Github仓库
+## 个人博客《红雨随心小站》的Github仓库
 
 <div align="center">
   <table>
     <tr>
       <td style="vertical-align: middle;">
-        <a href="//2061360308.github.io" target="_blank">
-          <img src="https://github.com/2061360308/2061360308.github.io/blob/hugo/static/imgs/avatar.jpg?raw=true" alt="头像" style="width: 100px; height: 100px; border-radius: 50%;">
+        <a href="//molimi20.github.io" target="_blank">
+          <img src="https://github.com/molimi20/molimi20.github.io/blob/hugo/static/imgs/CuoTou.jpg?raw=true" alt="头像" style="width: 100px; height: 100px; border-radius: 50%;">
         </a>
       </td>
       <td style="vertical-align: middle;">
-        <a href="//2061360308.github.io" target="_blank" style="text-decoration: none; color: inherit;">
-          <h1 style="margin: 0;">盧瞳小站</h1>
+        <a href="//molimi20.github.io" target="_blank" style="text-decoration: none; color: inherit;">
+          <h1 style="margin: 0;">红雨随心小站</h1>
         </a>
       </td>
     </tr>
@@ -25,7 +25,7 @@ title = '第一篇Hugo文章'
 </div>
 
 <div align="right">
-  <p>请到 <a href="//2061360308.github.io">2061360308.github.io</a> 浏览构建后的站点</p>
+  <p>请到我的小号 <a href="//2061360308.github.io">2061360308.github.io</a> 浏览构建后的站点</p>
 </div>
 
 ## 🚀使用方法
