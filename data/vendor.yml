@@ -10,10 +10,10 @@ local: /resources/
 js:
   clipboard: 
     src: local|clipboard@2.0.11/dist/clipboard.min.js
-    integrity: sha384-LPOOfbT/Q2tPuwT0VymrYpw9fcefEE59YZqSzv6Drwjdvun08eqsIU66QN1vNA3f
+    integrity: sha384-J08i8An/QeARD9ExYpvphB8BsyOj3Gh2TSh1aLINKO3L0cMSH2dN3E22zFoXEi0Q
   lazysizes: 
     src: local|lazysizes@5.3.2/lazysizes.min.js
-    integrity: sha384-yuXrDOQKJpgoYOtJeq3kwHM7UreOmNtdbePe0w/84km1EE5gWp8uhlRAMcOZA/vp
+    integrity: sha384-3gT/vsepWkfz/ff7PpWNUeMzeWoH3cDhm/A8jM7ouoAK0/fP/9bcHHR5kHq2nf+e
   photoswipe:
     src: local|photoswipe@5.4.4/dist/photoswipe.esm.min.js
     integrity: sha384-WkkO3GCmgkC3VQWpaV8DqhKJqpzpF9JoByxDmnV8+oTJ7m3DfYEWX1fu1scuS4+s
@@ -37,13 +37,13 @@ js:
     integrity: sha384-0M75wtSkhjIInv4coYlaJU83+OypaRCIq2SukQVQX04eGTCBXJDuWAbJet56id+S
   algolia:
     src: local|algoliasearch@4.17.1/dist/algoliasearch-lite.umd.js
-    integrity: sha384-dTXZ/Gqj5uUa0zJ8hCVgZTUXPJUxYco89i8bd3ujnV0XHr/9s4SRaRPrY4SHo5tK
+    integrity: sha384-xvLS0jfKuoREs7pqkRI/OI8GcqohO5S+jQz7ZBtQXnsXmD+9jDOOY4cL6dCPzlrk
   instantsearch:
     src: local|instantsearch.js@4.56.1/dist/instantsearch.production.min.js
-    integrity: sha384-apI+uRCAB4qXulU3+2CUjoOobWGCcvsYlZZELFLFtoHXD9CfiPBuH+GvMYzTqQa9
+    integrity: sha384-hHJCflT4KBLQyHfKO9vpstIcFKn/Y+KHTORelMMEn7mOp2AVPp+7fr03dLgZiV3J
   pace:
     src: local|pace-js@1.2.4/pace.min.js
-    integrity: sha384-YFrpaUqpIXElfFAy5gK0OHSTc1Y5ryELeT9MCdXGIL0KVpwhMhwEVNi3CUqFsEZx
+    integrity: sha384-k6YtvFUEIuEFBdrLKJ3YAUbBki333tj1CSUisai5Cswsg9wcLNaPzsTHDswp4Az8
   mermaid:
     src: local|mermaid@9.4.3/dist/mermaid.min.js
     integrity: sha384-aG3Gai4tbCHF0iXo48HwLoOZyut7mBl50oMC9GD1m75xyHfJDv6w8hD/kZRD47aJ
