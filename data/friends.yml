@@ -1,0 +1,12 @@
+- name: 盧瞳小站
+  url: https://oilu.cn/
+  desc: 先思考后编程
+  image: https://oilu.cn/avatar/avatar.webp
+- name: D-Sketon
+  url: https://d-sketon.github.io/
+  desc: Hexo 建站
+  image: https://d-sketon.github.io/avatar/avatar.webp
+- name: D-Sketon
+  url: https://d-sketon.github.io/astro-theme-reimu/
+  desc: Astro 建站
+  image: https://d-sketon.github.io/avatar/avatar.webp
