@@ -28,8 +28,8 @@ timeFormat: "2006-01-02 15:04:05"
 
 author: 红雨随心
 email: xxx@example.com
-description: "少女祈祷中..."
-subtitle: "少女祈祷中..."
+description: "悟已往之不见"
+subtitle: "悟已往之不见"
 
 banner: "images/banner.webp"
 # You can also write it in the form of the following url
@@ -273,9 +273,8 @@ comment:
   # comment system title
   title:
     en: Leave a comment
-    zh-CN: 说些什么吧！
-    zh-TW: 說些什麼吧！
-    ja: コメントを残す
+    zh-CN: 讲！
+    zh-TW: 讲！
   default: waline # default comment system, when you enable multiple comment systems
 
 # valine comment system. https://valine.js.org
