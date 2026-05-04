@@ -1,5 +1,5 @@
-baseURL = '/'
-title = '盧瞳小站'
+baseURL = 'https://red-rain.cn/'
+title = '红雨小站'
 theme  =  "reimu"
 
 languageCode = 'zh-CN'
@@ -10,7 +10,7 @@ languageName = '简体中文'
 weight = 1
 
 [outputs]
-home = ["Algolia", "HTML", "RSS"]
+home = ["HTML", "RSS"]
 
 [outputFormats.Algolia]
 baseName = "algolia"

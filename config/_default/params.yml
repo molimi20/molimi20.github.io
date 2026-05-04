@@ -26,9 +26,9 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: 盧瞳
-description: "Lutong's Blog"
-subtitle: "Lutong's Blog【先思考后编程】"
+author: 红雨
+description: "red-rain's Blog"
+subtitle: "red-rain's Blog【红雨随心翻作浪】"
 
 banner: "images/banner.webp"
 # You can also write it in the form of the following url
@@ -98,7 +98,7 @@ sidebar: left # left or right
 
 social:
   # email: mailto:xxx@gmail.com
-  github: https://github.com/2061360308
+  github: https://github.com/molimi20
   # google: https://plus.google.com/yourname
   # twitter: https://twitter.com/yourname
   # facebook: https://www.facebook.com/yourname
@@ -110,7 +110,7 @@ social:
   # flickr: https://www.flickr.com/photos/yourname
   # dribbble: https://dribbble.com/yourname
   # behance: https://www.behance.net/yourname
-  bilibili: https://space.bilibili.com/1134123186
+  #bilibili: https://space.bilibili.com/yourname
   # weibo: https://weibo.com/yourname
   # zhihu: https://www.zhihu.com/people/yourname
   # reddit: https://www.reddit.com/user/yourname
@@ -294,35 +294,62 @@ gitalk:
   md5: false
 
 # https://giscus.app/zh-CN
+#评论系统giscus
+#giscus:
+ # enable: true
+ # repo: 'molimi20/molimi20.github.io'
+ # repoId: 'R_kgDONaParA'
+ # category: 'Comments'
+ # categoryId: 'DIC_kwDONaParM4ClvPf'
+ # mapping: pathname
+ # strict: 0
+ # reactionsEnabled: 1
+ # emitMetadata: 0
+ # inputPosition: bottom
+ # commentTheme: preferred_color_scheme invalid
+ # lang: zh-CN
+
 giscus:
-  enable: true
-  repo: '2061360308/2061360308.github.io'
-  repoId: 'R_kgDONaParA'
-  category: 'Comments'
-  categoryId: 'DIC_kwDONaParM4ClvPf'
+  enable: false
+  repo: ''
+  repoId: ''
+  category: ''
+  categoryId: ''
   mapping: pathname
   strict: 0
   reactionsEnabled: 1
   emitMetadata: 0
   inputPosition: bottom
-  commentTheme: preferred_color_scheme invalid
+  commentTheme: preferred_color_scheme
   lang: zh-CN
+
 
 ########################################
 # Search
 ########################################
 
+#站内搜索
+#algolia_search:
+#  enable: true
+#  appID: 68EZJSYL8I
+#  apiKey: ab7cf0507e9353cba0e9e12fa29cf08e
+#  indexName: shokaX
+#  hits:
+#    per_page: 10
+#  labels:
+#    input_placeholder: "搜索....."
+#    hits_empty: "未发现与 「${query}」相关内容"
+#    hits_stats: "找到${hits}条结果（用时 ${time} ms）"
+#如需添加更改hugo.toml中的以下配置：home = ["Algolia", "HTML", "RSS"]
+
+
 algolia_search:
-  enable: true
-  appID: 68EZJSYL8I
-  apiKey: ab7cf0507e9353cba0e9e12fa29cf08e
-  indexName: shokaX
+  enable: false
+  appID: ''
+  apiKey: ''
+  indexName: ''
   hits:
     per_page: 10
-  labels:
-    input_placeholder: "搜索....."
-    hits_empty: "未发现与 「${query}」相关内容"
-    hits_stats: "找到${hits}条结果（用时 ${time} ms）"
 
 ########################################
 # Animation
@@ -426,13 +453,13 @@ outdate:
 
 # ICP 备案
 icp:
-  icpnumber: 晋ICP备 2024043872 号 # ICP备案号
+  icpnumber: 津ICP备 2025032681 号 # ICP备案号
   beian: # 网安备案号
   recordcode: # 网安备案链接中的recordcode参数
 
 # Sponsor
 sponsor:
-  enable: true
+  enable: false
   tip: 请作者喝杯咖啡吧！
   icon:
     url: "../images/taichi.png" # this path is relative to the css/main.css, so it needs to go up one level to reach the images folder
